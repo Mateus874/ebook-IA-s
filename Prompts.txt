@@ -1,0 +1,5 @@
+- Monte um titulo para um ebook, que nele trate do futuro das ias:
+    
+- Gere um resumo sobre o tema, em formado de ebook que seja curto
+
+ - Gere um titulo para um ebook, que nele trate do futuro das ias
